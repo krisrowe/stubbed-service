@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "Apple",
+        "description": "A delicious fruit"
+    },
+    {
+        "id": 2,
+        "name": "Bag",
+        "description": "Great for carrying your things around"
+    }
+]
